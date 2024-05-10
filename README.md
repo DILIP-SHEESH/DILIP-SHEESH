@@ -20,7 +20,7 @@ I'm a tech enthusiast passionate about exploring new technologies, with a keen i
 
 ## Get in Touch
 
-- LinkedIn: [Dilip B]([https://www.linkedin.com/in/dilip03/])
+- LinkedIn: [Dilip B](https://www.linkedin.com/in/dilip03/)
 - Email: dilipseervi2308@gmail.com
 
 Feel free to reach out if you want to collaborate on projects, discuss AI, or just chat about tech in general! 😊
