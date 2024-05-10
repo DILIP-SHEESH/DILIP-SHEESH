@@ -9,7 +9,7 @@ I'm a tech enthusiast passionate about exploring new technologies, with a keen i
 - 💡 Love to collaborate on projects involving cutting-edge technologies
 - 🎓 Pursuing continuous learning and personal growth in the tech field
 
-## Tech Stack
+## Skills
 
 ### Languages and Tools
 
