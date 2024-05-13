@@ -13,7 +13,7 @@ I'm a tech enthusiast passionate about exploring new technologies, with a keen i
 
 ### Languages and Tools
 
-- **Programming:** Python, Java, C,
+- **Programming:** Python, Java, C
 - **Frontend:** HTML, CSS 
 - **Databases:** MySQL
 - **Engine:** Unity
