@@ -1,4 +1,4 @@
-# Hi there, I'm Dilip B! 👋
+# Hi there, I'm Dilip! 👋
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
