@@ -17,11 +17,6 @@
       </a>
     </td>
     <td>
-      <a href="https://discord.gg/dilip03" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-      </a>
-    </td>
-    <td>
       <a href="https://medium.com/@dilipseervi2308" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
       </a>
